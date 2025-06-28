@@ -1,6 +1,6 @@
 # 🔫 Co0734's Gun Mod - The Ultimate Firearm Expansion for Minecraft!
 
-Welcome to the **Co0734's Gun Mod**, a powerful and customizable firearm expansion for Minecraft! This mod adds modern and futuristic weapons, attachments, ammo systems, and tactical gear to spice up your survival, PVP, and adventure experiences.
+Welcome to the **Co0734's Gun Mod**, a powerful and customizable firearm expansion for Minecraft! This mod adds modern and futuristic weapons, ammo systems, and tactical gear to spice up your survival, PVP, and adventure experiences.
 
 ---
 
